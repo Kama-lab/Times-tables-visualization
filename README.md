@@ -7,13 +7,13 @@ Times tables is a circle with points around it. Those points are connected to ea
 # Patterns
 The program is a simulation of creating patterns inside the circle. The initial number of points in a circle is 100 and multiplier is 2.
 <br>
-<img src="captures/capture1.png" alt="Italian Trulli" width="500px">
+<img src="https://github.com/Kama-lab/Times-tables-visualization/blob/master/captures/capture1.PNG" alt="capture1" width="500px">
 <br>
 <br>
 The difference in the number of points and multiplier creates various shapes and patterns
 <br>
 <br>
-<img src="captures/capture2.png" alt="Italian Trulli" width="200px">
-<img src="captures/capture3.png" alt="Italian Trulli" width="193px">
-<img src="captures/capture4.png" alt="Italian Trulli" width="200px">
-<img src="captures/capture5.png" alt="Italian Trulli" width="189px">
+<img src="https://github.com/Kama-lab/Times-tables-visualization/blob/master/captures/capture2.PNG" alt="capture2" width="200px">
+<img src="https://github.com/Kama-lab/Times-tables-visualization/blob/master/captures/capture3.PNG" alt="capture3" width="193px">
+<img src="https://github.com/Kama-lab/Times-tables-visualization/blob/master/captures/capture4.PNG" alt="capture4" width="200px">
+<img src="https://github.com/Kama-lab/Times-tables-visualization/blob/master/captures/capture5.PNG" alt="capture5" width="189px">
