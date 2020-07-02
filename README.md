@@ -6,4 +6,4 @@ Times tables is a circle with points around it. Those points are connected to ea
 
 # Patterns
 The program is a simulation of creating patterns inside the circle. The initial number of points in a circle is 100 and multiplier is 2.
-![Capture 1](https://github.com/Kama-lab/Times-tables-visualization/blob/master/captures/capture1.PNG)
+![Capture 1](https://github.com/Kama-lab/Times-tables-visualization/blob/master/captures/capture1.PNG | width=70)
